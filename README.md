@@ -70,4 +70,4 @@ We would like to thank the following libraries and resources for their contribut
 
 ## Support
 
-If you encounter any issues or have any questions, please contact us at [your email address].
+If you encounter any issues or have any questions, please contact us at **vidhyapkishore@gmail.com**.
