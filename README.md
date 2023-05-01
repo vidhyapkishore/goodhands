@@ -18,8 +18,9 @@ To get started with the application, you will need to follow these steps:
 1. Clone the repository using `git clone https://github.com/your-username/your-repository.git`
 2. Navigate to the project directory using `cd your-repository`
 3. Install the required dependencies using `npm install`
-4. Start the development server using `npm start`
-5. Navigate to `http://localhost:3000` to view the application
+4. Install the Python dependencies using pip install -r requirements.txt
+5. Start the development server using `npm start`
+6. Navigate to `http://localhost:3000` to view the application
 
 ## Usage
 
@@ -36,6 +37,9 @@ To use the application, follow these steps:
 The application has the following features:
 
 - User authentication and registration
+- Password reset if forgotten
+- Live video streaming of one day meal donated by you
+- Orphanages can add needs 
 - Browse and search for orphanages
 - View orphanage details and location on a map
 - Donate to an orphanage using a credit card or PayPal
@@ -54,13 +58,8 @@ If you would like to contribute to the project, please follow these steps:
 
 Please make sure to follow the code standards and guidelines outlined in the project's CONTRIBUTING.md file.
 
-## License
-
-This project is released under the MIT License. See LICENSE.md for more information.
 
 ## Credits
-
-This project was created by [your name] and [any contributors].
 
 We would like to thank the following libraries and resources for their contributions to this project:
 
