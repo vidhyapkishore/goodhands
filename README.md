@@ -58,6 +58,14 @@ If you would like to contribute to the project, please follow these steps:
 
 Please make sure to follow the code standards and guidelines outlined in the project's CONTRIBUTING.md file.
 
+## Technologies Used
+
+- React
+- Redux
+- Django
+- PostgreSQL
+- Bootstrap
+- Django REST Framework
 
 ## Credits
 
